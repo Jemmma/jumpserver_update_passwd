@@ -1,0 +1,358 @@
+2024-08-01 14:08:26,365 - jumpserver_update_passwd - INFO - è¾“å‡ºç¨‹åºå˜é‡old_passwd: Qq5#6qOLozBE
+2024-08-01 14:08:26,365 - jumpserver_update_passwd - INFO - è¾“å‡ºç¨‹åºå˜é‡group: 3.0UAT
+2024-08-01 14:08:26,365 - jumpserver_update_passwd - INFO - è¾“å‡ºç¨‹åºå˜é‡code_func: ipconfig |findstr "10."
+2024-08-01 14:08:26,365 - jumpserver_update_passwd - INFO - å·²åˆ›å»ºæ–°å¯†ç æœª: Mr9@42#X4sUR
+2024-08-01 15:29:56,859 - jumpserver_update_passwd - INFO - ------Parse 1------
+2024-08-01 15:29:56,861 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[æ—§å¯†ç ]: Qq5#6qOLozBE
+2024-08-01 15:29:56,861 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[ä¸»æœºç»„]: 3.0UAT
+2024-08-01 15:29:56,861 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[è¿œç¨‹æŒ‡ä»¤]: ipconfig |findstr "10."
+2024-08-01 15:29:56,861 - jumpserver_update_passwd - INFO - åˆ›å»ºå…·æœ‰å¤æ‚åº¦çš„[å¯†ç ]: Ip6#KqcH09gJ
+2024-08-01 15:29:56,861 - jumpserver_update_passwd - INFO - ------Parse 2------
+2024-08-01 15:29:56,861 - jumpserver_update_passwd - INFO - æ­£åœ¨å¯¹[ä¸»æœº 10.163.100.147]æ‰§è¡Œè¿œç¨‹æ“ä½œ
+2024-08-01 15:53:05,482 - jumpserver_update_passwd - INFO - processing: ipconfig
+2024-08-01 15:53:34,328 - jumpserver_update_passwd - INFO - processing: ipconfig
+2024-08-01 16:04:22,546 - jumpserver_update_passwd - INFO - result: 
+Windows IP Configuration
+
+
+Ethernet adapter SV-Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::eeff:dbd6:337b:3e3c%53
+   IPv4 Address. . . . . . . . . . . : 172.19.112.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter ÒÔÌ«Íø 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::127:15f5:31ac:d26c%28
+   IPv4 Address. . . . . . . . . . . : 10.25.7.45
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.25.6.1
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 18:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e833:f794:6d50:ca3a%7
+   IPv4 Address. . . . . . . . . . . : 192.168.11.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7c94:ce9e:d3da:e94%41
+   IPv4 Address. . . . . . . . . . . : 10.25.6.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter WLAN 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2d68:9f48:9c8a:e1b4%11
+   IPv4 Address. . . . . . . . . . . : 2.25.11.171
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 2.25.10.1
+
+Ethernet adapter À¶ÑÀÍøÂçÁ¬½Ó 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+2024-08-01 16:04:36,487 - jumpserver_update_passwd - INFO - result: 
+ 
+Windows IP Configuration
+
+
+Ethernet adapter SV-Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::eeff:dbd6:337b:3e3c%53
+   IPv4 Address. . . . . . . . . . . : 172.19.112.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter ÒÔÌ«Íø 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::127:15f5:31ac:d26c%28
+   IPv4 Address. . . . . . . . . . . : 10.25.7.45
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.25.6.1
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 18:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e833:f794:6d50:ca3a%7
+   IPv4 Address. . . . . . . . . . . : 192.168.11.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7c94:ce9e:d3da:e94%41
+   IPv4 Address. . . . . . . . . . . : 10.25.6.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter WLAN 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2d68:9f48:9c8a:e1b4%11
+   IPv4 Address. . . . . . . . . . . : 2.25.11.171
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 2.25.10.1
+
+Ethernet adapter À¶ÑÀÍøÂçÁ¬½Ó 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+2024-08-01 16:05:23,441 - jumpserver_update_passwd - INFO - result: 
+ 
+Windows IP Configuration
+
+
+Ethernet adapter SV-Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::eeff:dbd6:337b:3e3c%53
+   IPv4 Address. . . . . . . . . . . : 172.19.112.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter ÒÔÌ«Íø 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::127:15f5:31ac:d26c%28
+   IPv4 Address. . . . . . . . . . . : 10.25.7.45
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.25.6.1
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 18:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e833:f794:6d50:ca3a%7
+   IPv4 Address. . . . . . . . . . . : 192.168.11.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7c94:ce9e:d3da:e94%41
+   IPv4 Address. . . . . . . . . . . : 10.25.6.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter WLAN 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2d68:9f48:9c8a:e1b4%11
+   IPv4 Address. . . . . . . . . . . : 2.25.11.171
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 2.25.10.1
+
+Ethernet adapter À¶ÑÀÍøÂçÁ¬½Ó 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+2024-08-01 16:05:36,734 - jumpserver_update_passwd - INFO - result: 
+ 
+Windows IP Configuration
+
+
+Ethernet adapter SV-Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::eeff:dbd6:337b:3e3c%53
+   IPv4 Address. . . . . . . . . . . : 172.19.112.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter ÒÔÌ«Íø 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::127:15f5:31ac:d26c%28
+   IPv4 Address. . . . . . . . . . . : 10.25.7.45
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.25.6.1
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 18:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e833:f794:6d50:ca3a%7
+   IPv4 Address. . . . . . . . . . . : 192.168.11.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7c94:ce9e:d3da:e94%41
+   IPv4 Address. . . . . . . . . . . : 10.25.6.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter WLAN 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2d68:9f48:9c8a:e1b4%11
+   IPv4 Address. . . . . . . . . . . : 2.25.11.171
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 2.25.10.1
+
+Ethernet adapter À¶ÑÀÍøÂçÁ¬½Ó 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+2024-08-01 16:06:02,608 - jumpserver_update_passwd - INFO - result: 
+ 
+Windows IP Configuration
+
+
+Ethernet adapter SV-Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::eeff:dbd6:337b:3e3c%53
+   IPv4 Address. . . . . . . . . . . : 172.19.112.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter ÒÔÌ«Íø 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::127:15f5:31ac:d26c%28
+   IPv4 Address. . . . . . . . . . . : 10.25.7.45
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.25.6.1
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter ±¾µØÁ¬½Ó* 18:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet0:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::e833:f794:6d50:ca3a%7
+   IPv4 Address. . . . . . . . . . . : 192.168.11.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7c94:ce9e:d3da:e94%41
+   IPv4 Address. . . . . . . . . . . : 10.25.6.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter WLAN 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2d68:9f48:9c8a:e1b4%11
+   IPv4 Address. . . . . . . . . . . : 2.25.11.171
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 2.25.10.1
+
+Ethernet adapter À¶ÑÀÍøÂçÁ¬½Ó 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+2024-08-01 16:07:28,092 - jumpserver_update_passwd - INFO - ------Parse 1------
+2024-08-01 16:07:28,092 - jumpserver_update_passwd - INFO - ------Parse 1------
+2024-08-01 16:07:28,092 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[æ—§å¯†ç ]: Qq5#6qOLozBE
+2024-08-01 16:07:28,092 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[æ—§å¯†ç ]: Qq5#6qOLozBE
+2024-08-01 16:07:28,092 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[ä¸»æœºç»„]: 3.0UAT
+2024-08-01 16:07:28,092 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[ä¸»æœºç»„]: 3.0UAT
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[è¿œç¨‹æŒ‡ä»¤]: ipconfig |findstr "10."
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[è¿œç¨‹æŒ‡ä»¤]: ipconfig |findstr "10."
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - åˆ›å»ºå…·æœ‰å¤æ‚åº¦çš„[å¯†ç ]: Fq3#lKhYyNIj
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - åˆ›å»ºå…·æœ‰å¤æ‚åº¦çš„[å¯†ç ]: Fq3#lKhYyNIj
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - ------Parse 2------
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - ------Parse 2------
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - æ­£åœ¨å¯¹[ä¸»æœº 10.163.100.147]æ‰§è¡Œè¿œç¨‹æ“ä½œ
+2024-08-01 16:07:28,094 - jumpserver_update_passwd - INFO - æ­£åœ¨å¯¹[ä¸»æœº 10.163.100.147]æ‰§è¡Œè¿œç¨‹æ“ä½œ
+2024-08-01 16:09:11,407 - jumpserver_update_passwd - INFO - ------Parse 1------
+2024-08-01 16:09:11,407 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[æ—§å¯†ç ]: Qq5#6qOLozBE
+2024-08-01 16:09:11,407 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[ä¸»æœºç»„]: 3.0UAT
+2024-08-01 16:09:11,407 - jumpserver_update_passwd - INFO - åŠ è½½åˆå§‹å˜é‡[è¿œç¨‹æŒ‡ä»¤]: ipconfig |findstr "10."
+2024-08-01 16:09:11,407 - jumpserver_update_passwd - INFO - åˆ›å»ºå…·æœ‰å¤æ‚åº¦çš„[å¯†ç ]: Jr3_WNxUC#xD
+2024-08-01 16:09:11,407 - jumpserver_update_passwd - INFO - ------Parse 2------
+2024-08-01 16:09:11,407 - jumpserver_update_passwd - INFO - æ­£åœ¨å¯¹[ä¸»æœº 10.163.100.147]æ‰§è¡Œè¿œç¨‹æ“ä½œ

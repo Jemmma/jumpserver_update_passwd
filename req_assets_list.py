@@ -35,7 +35,7 @@ def get_assets():
 
 if __name__ == '__main__':
     my_assets = get_assets()
-    pattern = '3.0UAT'
+    pattern = '2.0生产'
     for i in my_assets:
         if i['type']['value'] == 'windows' and pattern.decode('utf-8') in i['nodes_display'][0]:
                 print(i['address'] + '\t' + i['id'] + '\t' + i['nodes'][0]['id'])

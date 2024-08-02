@@ -1,0 +1,9 @@
+2024-08-02 10:46:03,671 - jumpserver_update_passwd - INFO - ------Parse 1------
+2024-08-02 10:46:03,673 - jumpserver_update_passwd - INFO - 加载初始变量[旧密码]: Qq5#6qOLozBE
+2024-08-02 10:46:03,673 - jumpserver_update_passwd - INFO - 加载初始变量[主机组]: 3.0UAT
+2024-08-02 10:46:03,673 - jumpserver_update_passwd - INFO - 加载初始变量[远程指令]: ipconfig |findstr "10."
+2024-08-02 10:46:03,673 - jumpserver_update_passwd - INFO - 创建具有复杂度的[密码]: Qr0_l1wfn8Ep
+2024-08-02 10:46:03,673 - jumpserver_update_passwd - INFO - ------Parse 2------
+2024-08-02 10:46:03,673 - jumpserver_update_passwd - INFO - 开始处理远程命令模块
+2024-08-02 10:46:03,673 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-02 10:46:03,674 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.147]执行远程操作
