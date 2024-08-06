@@ -1,0 +1,61 @@
+2024-08-06 16:20:21,801 - jumpserver_update_passwd - INFO - ------Parse 1------
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - 加载初始变量[旧密码]: Qq5#6qOLozBE
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - 加载初始变量[主机组]: 3.0UAT
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - 加载初始变量[远程指令]: ipconfig |findstr "10."
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - 创建具有复杂度的[密码]: Ht9#zt_!QdAn
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - ------Parse 2------
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - 开始处理远程命令模块
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:20:21,802 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.147]执行远程操作
+2024-08-06 16:20:42,838 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:20:42,838 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.21]执行远程操作
+2024-08-06 16:21:03,888 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:21:03,888 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.123]执行远程操作
+2024-08-06 16:21:24,931 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:21:24,931 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.136]执行远程操作
+2024-08-06 16:21:45,974 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:21:45,974 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.114]执行远程操作
+2024-08-06 16:22:07,025 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:22:07,026 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.170]执行远程操作
+2024-08-06 16:22:28,072 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:22:28,072 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.170]执行远程操作
+2024-08-06 16:22:49,119 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:22:49,119 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.226]执行远程操作
+2024-08-06 16:23:10,158 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:23:10,158 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.227]执行远程操作
+2024-08-06 16:23:31,201 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:23:31,201 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.118]执行远程操作
+2024-08-06 16:23:52,242 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:23:52,242 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.112]执行远程操作
+2024-08-06 16:24:13,288 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:24:13,288 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.91]执行远程操作
+2024-08-06 16:24:34,332 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:24:34,332 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.117]执行远程操作
+2024-08-06 16:24:55,371 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:24:55,371 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.196]执行远程操作
+2024-08-06 16:25:16,426 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:25:16,427 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.105.106]执行远程操作
+2024-08-06 16:25:37,490 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:25:37,490 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.106.50]执行远程操作
+2024-08-06 16:25:58,539 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:25:58,539 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.99.137]执行远程操作
+2024-08-06 16:26:19,572 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:26:19,572 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.100.161]执行远程操作
+2024-08-06 16:26:40,598 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:26:40,598 - jumpserver_update_passwd - INFO - 正在对[主机 10.163.105.18]执行远程操作
+2024-08-06 16:27:01,638 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:27:01,638 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.133]执行远程操作
+2024-08-06 16:27:22,677 - jumpserver_update_passwd - INFO - 模式二：设置[远程指令]为: ipconfig |findstr "10."
+2024-08-06 16:27:22,678 - jumpserver_update_passwd - INFO - 正在对[主机 128.0.0.111]执行远程操作
+2024-08-06 16:27:43,700 - jumpserver_update_passwd - INFO - ------Parse 3------
+2024-08-06 16:27:43,701 - jumpserver_update_passwd - INFO - 模式二中异常的主机列表有：[u'10.163.100.147', u'128.0.0.21', u'128.0.0.123', u'128.0.0.136', u'128.0.0.114', u'10.163.100.170', u'10.163.100.170', u'10.163.100.226', u'10.163.100.227', u'128.0.0.118', u'128.0.0.112', u'128.0.0.91', u'128.0.0.117', u'10.163.100.196', u'10.163.105.106', u'10.163.106.50', u'10.163.99.137', u'10.163.100.161', u'10.163.105.18', u'128.0.0.133', u'128.0.0.111']
+2024-08-06 16:36:36,698 - jumpserver_update_passwd - INFO - ------Parse 1------
+2024-08-06 16:36:36,700 - jumpserver_update_passwd - INFO - 加载初始变量[旧密码]: Qq5#6qOLozBE
+2024-08-06 16:36:36,700 - jumpserver_update_passwd - INFO - 加载初始变量[主机组]: 3.0UAT
+2024-08-06 16:36:36,700 - jumpserver_update_passwd - INFO - 加载初始变量[远程指令]: ipconfig |findstr "10."
+2024-08-06 16:36:36,700 - jumpserver_update_passwd - INFO - 创建具有复杂度的[密码]: Zp1$Y3Y!c0uL
+2024-08-06 16:36:36,700 - jumpserver_update_passwd - INFO - ------Parse 2------
+2024-08-06 16:36:36,700 - jumpserver_update_passwd - INFO - 开始处理远程命令模块
+2024-08-06 16:36:36,700 - jumpserver_update_passwd - INFO - 执行远程命令模式[administrator]: ipconfig |findstr "10."
+2024-08-06 16:36:57,733 - jumpserver_update_passwd - INFO - 使用administrator用户对[主机 10.163.100.147]执行远程命令操作失败
+2024-08-06 16:36:57,734 - jumpserver_update_passwd - INFO - 更改远程命令模式[hundsun]: net user hundsun "Zp1$Y3Y!c0uL"
